@@ -1,8 +1,8 @@
 ## This repository contains a simple game project where the player controls a character, collecting both points and special obstacles. These unique obstacles elevate our character's position, enabling them to navigate through obstacles that could otherwise deplete our collected items.
 Unity Engine Project
 
-*level setup example*
-![alt text](https://github.com/PiotrCynowski/Runner_With_Procedural_Generated_Obstacles/blob/master/pic/LevelSetup.png?raw=true)
+*Gameplay*
+![alt text](https://github.com/PiotrCynowski/Runner_With_Procedural_Generated_Obstacles/blob/master/pic/project.png?raw=true)
 
 #### - Controllers:
 Move left and right with mouse position and hold LMB
